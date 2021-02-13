@@ -123,9 +123,6 @@ ul {
   margin-right: 50px;
 }
 
-.navigaton-list-item:last-child {
-  margin-right: 0px;
-}
 .navigation-list {
   display: flex;
   margin-right: 331px;
